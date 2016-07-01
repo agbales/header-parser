@@ -1,6 +1,6 @@
 # Header-Parser
 
-Find it here: [https://dashboard.heroku.com/apps/agb-header-parser](https://dashboard.heroku.com/apps/agb-header-parser)
+Find it here: [https://agb-header-parser.herokuapp.com/](https://agb-header-parser.herokuapp.com/)
 
 ### About
 
