@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.12.4",
-    "ip": "^1.1.3",
+    "ip": "^1.1.3"
     "express-useragent": "^0.2.4"
   },
   "bugs": {
