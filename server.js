@@ -27,7 +27,6 @@ app.get('/', function(req, res){
         language: lang,
         software: soft 
     }
-    
-    res.send(response);
 
+    res.send(response);
 });
